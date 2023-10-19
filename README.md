@@ -4,4 +4,4 @@ Este projeto foi criado para uma aula de sistema embarcado, onde eu deveria cria
 Para visualização do funcionamento, basta acessar o link: https://www.tinkercad.com/things/2Fh0ceZz7MV?sharecode=nPdykskJ69x25lu64MaKUVIAnr44fU0AUDPct8NC1JY .  |
 To see how it works, just access the link: https://www.tinkercad.com/things/2Fh0ceZz7MV?sharecode=nPdykskJ69x25lu64MaKUVIAnr44fU0AUDPct8NC1JY .
 <br>
-![arduino1](https://github.com/0aquarianjo/alarme-com-arduino/issues/1#issue-1953175967)
+![arduino1](https://github.com/0aquarianjo/alarme-com-arduino/assets/130726878/e7dd1757-089d-4f78-a54c-1a62ff81da03)
